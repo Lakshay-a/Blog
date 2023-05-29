@@ -10,7 +10,7 @@ I have used the react-quill library to include a rich-text editor in the app.
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+<img width="1440" alt="Screenshot 2023-05-29 at 6 15 27 PM" src="https://github.com/Lakshay-a/blog/assets/97395338/fd92f090-3dad-46f5-abbe-8be2e4c78332">
 
 
 ## Authors
