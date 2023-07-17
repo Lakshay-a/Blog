@@ -1,9 +1,7 @@
 
 # Blog app
 
-A MERN (mongo, express, react, node) stack blog app which is fully responsive and can be used to publish your blog content.
-
-I have used the react-quill library to include a rich-text editor in the app.
+This is a MERN (mongo, express, react, node) stack blog web application which is fully responsive. It can be used to write a new blog, edit an existing blog, delete a blog, and view the blogs of other users too. It has a rich-text editor which i made using react-quill library and it also has authentication feature.
 
 
 
